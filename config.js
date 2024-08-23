@@ -21,15 +21,15 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94702782946", "+94702782946"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94702782946", "+94702782946"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94702782946"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
-global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
+global.Owner = ["+212649483641"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+212649483641"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+212649483641"];
+global.OwnerName = "LUCAS";
+global.BotName = "LUCAS-BOT";
+global.packname = "By Lucas King";                             //Do not change.
+global.author = "LUCAS";                               //Do not change.
+global.BotSourceCode = ""; //Do not change.
+global.SupportGroupLink = "";
 
 
 //
@@ -79,19 +79,19 @@ global.ntilink = []
 
 //
 global.mess = {
-  jobdone: 'Here you go...',
-  useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
-  botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-  botowner: 'Only my *Owner* can use this command, Baka!',
-  grouponly: 'This command is only made for *Groups*, Baka!',
-  privateonly: 'This command is only made for *Private Chat*, Baka!',
+  jobdone: 'Ha 7na',
+  useradmin: 'Had CMD ghi dyal admin',
+  botadmin: 'Had CMD makikhdmch khasni admin fl groupe.',
+  botowner: 'Had CMD ghi dyal mol chi',
+  grouponly: 'Had CMD ghi dyal groupat',
+  privateonly: 'Had CMD ghi dyal privi',
   botonly: 'Only the *Bot itself* can use this command!',
-  waiting: 'Just Wait...',
-  nolink: 'Please provide me *link*, Baka!',
-  error: 'An error occurd!',
-  banned: 'You are *Banned* fron using commands!',
-  bangc: 'This Group is *Banned* from using Commands!',
-  nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+  waiting: 'Ghi tsna...',
+  nolink: '3tini lien Almrd',
+  error: 'Man9drch ndir hadchi!',
+  banned: 'Nta mbani mlkhr hhhh',
+  bangc: 'Had groupe mbani hhhhh',
+  nonsfw: 'Had groupe man9drch nsift fih lfa7icha''
 
 }
 
